@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alekandrogm
+- 👀 I’m interested in movies and games
+- 🌱 I’m currently learning java, python and blender
+- 💞️ I’m looking to collaborate on a game creation
+- 📫 How to reach me: alejandrogarciamendiola@gmail.com
